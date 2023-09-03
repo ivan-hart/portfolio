@@ -267,9 +267,7 @@ main {
     margin: 0 auto;
     margin-bottom: 2rem;
     margin-inline: 1rem;
-    border-radius: 5px;
     overflow: hidden;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding-block: 1rem;
 }
 
